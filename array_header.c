@@ -1,10 +1,10 @@
 #include<stdio.h>
 void input(int arr[],int s)
 {
-    int i;
-    for(i=0;i<s;i++)
+   
+    for(int i=0;i<6;i++)
     {
         printf("enter the number %d: ",i+1);
-        scanf("%d")
+    
     }
 }
